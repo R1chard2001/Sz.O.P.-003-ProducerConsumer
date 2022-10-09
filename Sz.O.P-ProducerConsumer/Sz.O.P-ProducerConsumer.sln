@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingLock", "UsingLock\UsingLock.csproj", "{F552F9DD-F919-4B36-9412-DBE3A724E31A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMonitor", "UsingMonitor\UsingMonitor.csproj", "{011CDF32-120B-44D8-BE45-E57EAD8AFB31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F552F9DD-F919-4B36-9412-DBE3A724E31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F552F9DD-F919-4B36-9412-DBE3A724E31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F552F9DD-F919-4B36-9412-DBE3A724E31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F552F9DD-F919-4B36-9412-DBE3A724E31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011CDF32-120B-44D8-BE45-E57EAD8AFB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011CDF32-120B-44D8-BE45-E57EAD8AFB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011CDF32-120B-44D8-BE45-E57EAD8AFB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011CDF32-120B-44D8-BE45-E57EAD8AFB31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {460D29FD-A631-47BB-ACEF-EDC17A53B377}
+	EndGlobalSection
+EndGlobal
